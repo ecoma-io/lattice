@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.11.2](https://github.com/ecoma-io/lattice/compare/v0.11.1...v0.11.2) (2026-08-22)
+
+
+### Bug Fixes
+
+* **lattice:** classify CLI exits by error type instead of message regex ([#215](https://github.com/ecoma-io/lattice/issues/215)) ([7cbc853](https://github.com/ecoma-io/lattice/commit/7cbc8536ac8b7deac20929632ed2005176e15009))
+
 ## [0.11.1](https://github.com/ecoma-io/lattice/compare/v0.11.0...v0.11.1) (2026-08-22)
 
 
